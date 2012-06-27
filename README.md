@@ -14,7 +14,7 @@ Translation of the official guide to Spanish of the Pomodoro Technique
   idea is that we follow the same line to get a porducto mature and ready to ship officially
 
 ## Interaction and Communication
-* Mailing list on google groups of agile-Colombia
+* Mailing list on google groups of agiles-Colombia
 * Twitter: @alejo8591 y @AgilesColombia
 
 
