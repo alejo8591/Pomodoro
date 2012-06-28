@@ -17,8 +17,8 @@ Translation of the official guide to Spanish of the Pomodoro Technique
   and change to the respective version, the next most important and controversial.
 
 ## Interaction and Communication
-* Mailing list on google groups of agiles-Colombia
-* Twitter: @alejo8591 y @AgilesColombia
+* Mailing list on google groups of Agiles-Colombia
+* Twitter: @alejo8591 and @AgilesColombia
 
 
 
