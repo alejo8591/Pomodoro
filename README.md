@@ -13,6 +13,8 @@ Translation of the official guide to Spanish of the Pomodoro Technique
 * Why through git and github?: because you must have a version control since several people 
   can be manipulated and the idea is that we follow the same line to get a porducto 
   mature and ready to ship officially.
+* if a major change of a comment by issue, to be studied and analyzed with the whole group, 
+  and change to the respective version, the next most important and controversial.
 
 ## Interaction and Communication
 * Mailing list on google groups of agiles-Colombia
